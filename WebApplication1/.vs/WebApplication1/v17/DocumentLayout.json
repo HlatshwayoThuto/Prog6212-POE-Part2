@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1.tests\\dataserviceinvalididtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|solutionrelative:webapplication1.tests\\dataserviceinvalididtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1.tests\\fileprotectortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|solutionrelative:webapplication1.tests\\fileprotectortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -98,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -113,25 +117,38 @@
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceInvalidIdTests.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "RelativeToolTip": "WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:48:09.766Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FileProtectorTests.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\FileProtectorTests.cs",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\FileProtectorTests.cs",
               "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\FileProtectorTests.cs",
               "RelativeToolTip": "WebApplication1.Tests\\FileProtectorTests.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T16:29:31.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DataServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceTests.cs",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceTests.cs",
@@ -143,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminController.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
@@ -167,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DataService.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\DataService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\DataService.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Claim.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WebApplication1.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\WebApplication1.Tests.csproj",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\WebApplication1.Tests.csproj",
@@ -203,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Document.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Document.cs",
@@ -215,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LecturerController.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LecturerController.cs",
@@ -227,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\UnitTest1.cs",
@@ -239,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SubmitClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Lecturer\\SubmitClaim.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Lecturer\\SubmitClaim.cshtml",
@@ -251,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CoordinatorView.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Admin\\CoordinatorView.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\CoordinatorView.cshtml",
@@ -263,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TrackClaims.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Lecturer\\TrackClaims.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Lecturer\\TrackClaims.cshtml",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ManagerView.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Admin\\ManagerView.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\ManagerView.cshtml",
@@ -287,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IFileProtector.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Services\\IFileProtector.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\IFileProtector.cs",
@@ -299,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -311,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -323,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
@@ -335,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -347,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ViewClaim.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Admin\\ViewClaim.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\ViewClaim.cshtml",
@@ -359,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
@@ -371,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
