@@ -1,0 +1,19 @@
+{
+  "Claims": [
+    {
+      "ClaimId": 1,
+      "LecturerName": "Thuto H",
+      "HoursWorked": 100,
+      "HourlyRate": 50,
+      "TotalAmount": 5000,
+      "Notes": "FWAGHYHSEDAEGRFG",
+      "Status": "Approved",
+      "SubmissionDate": "2025-10-20T20:47:49.8407359+02:00",
+      "ApprovalDate": "2025-10-20T20:48:09.0064083+02:00",
+      "ApprovedBy": "Academic Manager",
+      "Documents": []
+    }
+  ],
+  "NextClaimId": 2,
+  "NextDocumentId": 1
+}

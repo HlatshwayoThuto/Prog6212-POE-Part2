@@ -1,0 +1,29 @@
+﻿@model WebApplication1.Models.Claim
+@{
+    ViewData["Title"] = "Claim Details";
+}
+<h2 class="mb-3">Claim Details</h2>
+
+<div class="card">
+    <div class="card-header">Lecturer: @Model.LecturerName</div>
+    <div class="card-body">
+        <p><strong>Hours Worked:</strong> @Model.HoursWorked</p>
+        <p><strong>Hourly Rate:</strong> R @Model.HourlyRate</p>
+        <p><strong>Total Amount:</strong> R @Model.TotalAmount</p>
+        <p><strong>Status:</strong> @Model.Status</p>
+        <p><strong>Submitted:</strong> @Model.SubmissionDate</p>
+        <p><strong>Approved By:</strong> @Model.ApprovedBy</p>
+        <hr />
+        <h5>Documents</h5>
+        @foreach (var d in Model.Documents)
+        {
+            <p>
+                <a asp-controller="Lecturer" asp-action="DownloadDocument" asp-route-documentId="@d.DocumentId" class="btn btn-outline-secondary btn-sm">
+                    Download @d.FileName
+                </a>
+            </p>
+        }
+    </div>
+</div>
+
+<a asp-action="CoordinatorView" class="btn btn-secondary mt-3">Back</a>

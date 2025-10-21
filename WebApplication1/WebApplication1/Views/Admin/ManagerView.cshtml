@@ -1,0 +1,51 @@
+﻿@model IEnumerable<WebApplication1.Models.Claim>
+@{
+    ViewData["Title"] = "Manager - Verified Claims";
+}
+<h2>Academic Manager - Verified Claims</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No verified claims.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Lecturer</th>
+                <th>Total</th>
+                <th>Verified Date</th>
+                <th>Documents</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model)
+            {
+                <tr>
+                    <td>@c.LecturerName</td>
+                    <td>@c.TotalAmount.ToString("N2")</td>
+                    <td>@c.ApprovalDate?.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        @foreach (var d in c.Documents)
+                        {
+                            <a asp-controller="Lecturer" asp-action="DownloadDocument" asp-route-documentId="@d.DocumentId" class="btn btn-sm btn-outline-secondary mb-1">@d.FileName</a>
+                        }
+                    </td>
+                    <td>
+                        <form asp-action="ApproveClaim" method="post" class="d-inline">
+                            <input type="hidden" name="claimId" value="@c.ClaimId" />
+                            <button class="btn btn-primary btn-sm">Approve</button>
+                        </form>
+                        <form asp-action="RejectClaim" method="post" class="d-inline">
+                            <input type="hidden" name="claimId" value="@c.ClaimId" />
+                            <input type="hidden" name="role" value="Manager" />
+                            <button class="btn btn-danger btn-sm">Reject</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
