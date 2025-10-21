@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\models\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,32 +43,12 @@
       "RelativeMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|solutionrelative:webapplication1.tests\\dataservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\models\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1.tests\\webapplication1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|solutionrelative:webapplication1.tests\\webapplication1.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{577D5AA8-92D1-49AB-A0FB-EDAF28AFACAA}|WebApplication1.Tests\\WebApplication1.Tests.csproj|solutionrelative:webapplication1.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F490254E-8693-4091-BA0D-F7E188153B35}|WebApplication1\\WebApplication1.csproj|c:\\users\\hlath\\onedrive\\desktop\\prog6212-poe-part2\\webapplication1\\webapplication1\\views\\admin\\managerview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -106,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,37 +121,8 @@
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataServiceValidationTests.cs",
-              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceValidationTests.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceValidationTests.cs",
-              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceValidationTests.cs",
-              "RelativeToolTip": "WebApplication1.Tests\\DataServiceValidationTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:53:07.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataServiceInvalidIdTests.cs",
-              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
-              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
-              "RelativeToolTip": "WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T16:48:09.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "FileProtectorTests.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\FileProtectorTests.cs",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\FileProtectorTests.cs",
@@ -163,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DataServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceTests.cs",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceTests.cs",
@@ -175,56 +146,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\AdminController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAwwHgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAA5wHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:20:55.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T17:20:55.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:19:23.798Z"
+              "WhenOpened": "2025-10-20T17:19:23.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\DataService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\DataService.cs",
-              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\DataService.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\DataService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wK0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwJUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:18:29.596Z"
+              "WhenOpened": "2025-10-20T17:20:00.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Claim.cs",
               "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Claim.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Claim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:17:18.624Z"
+              "WhenOpened": "2025-10-20T17:17:18.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\DataService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\DataService.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\DataService.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\DataService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAswOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:18:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Document.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Document.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:28:47.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataServiceInvalidIdTests.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "RelativeToolTip": "WebApplication1.Tests\\DataServiceInvalidIdTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:48:09.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataServiceValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceValidationTests.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Tests\\DataServiceValidationTests.cs",
+              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\DataServiceValidationTests.cs",
+              "RelativeToolTip": "WebApplication1.Tests\\DataServiceValidationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:53:07.177Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "WebApplication1.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\WebApplication1.Tests.csproj",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\WebApplication1.Tests.csproj",
@@ -236,31 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Document.cs",
-              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Document.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Document.cs",
-              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Models\\Document.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Document.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:28:47.752Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "LecturerController.cs",
-              "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\LecturerController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LecturerController.cs",
-              "ToolTip": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1\\Controllers\\LecturerController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\LecturerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T17:20:00.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\hlath\\OneDrive\\Desktop\\Prog6212-POE-Part2\\WebApplication1\\WebApplication1.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "WebApplication1.Tests\\UnitTest1.cs",
