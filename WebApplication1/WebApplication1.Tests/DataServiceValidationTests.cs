@@ -6,6 +6,22 @@ using System.Text;
 using System.Threading.Tasks;
 using WebApplication1.Models;
 
+// This unit test checks how the DataService handles validation when a required field is missing.
+// Specifically, it verifies that adding a claim with a null LecturerName does not throw an unhandled exception.
+//
+// Test Setup:
+// - A FakeEnvironment is used to simulate the hosting environment.
+// - A NullLogger is injected to suppress logging during the test.
+// - DataService is initialized with the fake environment and logger.
+//
+// Test Logic:
+// - A Claim object is created with LecturerName set to null, simulating invalid input.
+// - The AddClaim method is invoked inside Record.Exception to capture any thrown exceptions.
+//
+// Assertion:
+// - The test asserts that no exception is thrown (i.e., Assert.Null(exception)), 
+//   confirming that the service handles missing required fields gracefully and does not crash.
+
 namespace WebApplication1.Tests
 {
     public class DataServiceValidationTests

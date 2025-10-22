@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging.Abstractions;
 using Microsoft.Extensions.FileProviders;
 using Xunit;
 
+
 namespace WebApplication1.Tests
 {
     public class DataServiceTests
@@ -105,4 +106,33 @@ namespace WebApplication1.Tests
             ContentRootFileProvider = new PhysicalFileProvider(ContentRootPath);
         }
     }
+    // This test suite verifies the core functionalities of the DataService class, which manages claim records 
+    // and associated documents in a web application. It uses xUnit for testing and a mock hosting environment 
+    // to isolate file system dependencies.
+    //
+    // Test Setup:
+    // - A FakeEnvironment class simulates IWebHostEnvironment using temporary directories for WebRoot and ContentRoot.
+    // - A NullLogger is used to suppress logging during tests.
+    // - DataService is initialized with the fake environment and logger.
+    //
+    // Test Cases:
+    // 1. AddClaim_ShouldIncreaseClaimCount:
+    //    - Verifies that adding a new claim increases the total number of claims stored.
+    //
+    // 2. UpdateClaimStatus_ShouldChangeStatusAndApprovedBy:
+    //    - Ensures that updating a claim's status and approver correctly modifies the claim's properties.
+    //
+    // 3. GetClaimsByStatus_ShouldReturnOnlyMatchingClaims:
+    //    - Confirms that filtering claims by status returns only those with the specified status.
+    //
+    // 4. AddDocumentToClaim_ShouldAttachDocumentSuccessfully:
+    //    - Tests that a document can be successfully attached to a claim and its metadata is stored correctly.
+    //
+    // 5. TotalAmount_ShouldBeCalculatedCorrectly:
+    //    - Validates that the TotalAmount property of a claim is computed as HoursWorked × HourlyRate.
+    //
+    // Supporting Class:
+    // - FakeEnvironment:
+    //   - Implements IWebHostEnvironment with temporary folders to ensure tests do not rely on actual disk paths.
+    //   - Provides physical file providers for both WebRoot and ContentRoot, enabling file operations in isolation.
 }

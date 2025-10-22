@@ -8,6 +8,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// This unit test verifies the encryption and decryption functionality of the FileProtector class,
+// ensuring that file content remains intact after being encrypted and then decrypted.
+//
+// Test Setup:
+// - A ConfigurationBuilder is used to simulate app configuration.
+// - A FakeEnvironment provides isolated WebRootPath for file operations.
+// - A test-specific uploads folder is created under WebRootPath, and any existing folder is deleted to ensure a clean state.
+// - FileProtector is initialized with the configuration and environment.
+//
+// Test Logic:
+// - A sample string ("Hello, encryption test!") is converted to a byte array and wrapped in a FormFile to simulate an uploaded file.
+// - The file is encrypted and saved using SaveEncryptedAsync.
+// - The encrypted file is then decrypted using OpenDecryptedAsync.
+// - The decrypted content is read from the resulting stream.
+//
+// Assertion:
+// - The test asserts that the decrypted content matches the original string,
+//   confirming that the encryption and decryption process preserves data integrity.
+
 namespace WebApplication1.Tests
 {
     public class FileProtectorTests

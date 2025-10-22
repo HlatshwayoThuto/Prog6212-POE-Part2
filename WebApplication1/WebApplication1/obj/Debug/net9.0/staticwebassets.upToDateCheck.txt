@@ -61,6 +61,8 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\uploads\51f4e9525ebb455a8e27a99c571560fe.bin
+wwwroot\uploads\79b5c317b8d0441d953dd8d4c8e95bce.bin
 C:\Users\hlath\OneDrive\Desktop\Prog6212-POE-Part2\WebApplication1\WebApplication1\wwwroot\js\site.js
 C:\Users\hlath\OneDrive\Desktop\Prog6212-POE-Part2\WebApplication1\WebApplication1\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\hlath\OneDrive\Desktop\Prog6212-POE-Part2\WebApplication1\WebApplication1\wwwroot\lib\jquery\dist\jquery.slim.min.map
